@@ -7,7 +7,7 @@ pygame.init()
 
 # Определение шрифта
 font_path = "arial.ttf"
-font_size = 32
+font_size = 33
 
 # Определение цветов
 BLACK = (0, 0, 0)
